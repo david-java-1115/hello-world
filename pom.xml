@@ -59,6 +59,9 @@
                 <enabled>false</enabled>
             </snapshots>
         </repository>
+        
+        
+        hello-world1
     </repositories>
 
     <pluginRepositories>
